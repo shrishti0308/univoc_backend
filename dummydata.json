@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "title": "Electrical and Electronics",
+    "breadcrumbs": ["Home", "Courses", "Electrical and Electronics"],
+    "rating": 4.2
+  },
+  "about": {
+    "title": "About the Program",
+    "description": "The Electrical and Electronics course covers fundamental and advanced topics in electrical engineering and electronics. It includes subjects like circuit analysis, electrical machines, power systems, signal processing, control systems, and electronics devices. Students learn to design and analyze electrical circuits, understand the operation of electrical machines and power generation, and delve into communication systems, microprocessors, and embedded systems. Practical applications such as renewable energy systems, electrical instrumentation, and automation technologies are also explored. The course prepares students for careers in industries like power generation, telecommunications, robotics, and electronics manufacturing, equipping them with both theoretical knowledge and hands-on experience."
+  },
+  "programDetails": [
+    { "label": "Duration", "value": "45hrs" },
+    { "label": "Language", "value": "English" },
+    { "label": "Total Credits", "value": "30" }
+  ],
+  "courses": [
+    {
+      "title": "Technical Skills",
+      "content": "Content for Technical Skills : The course covers fundamental and advanced topics in electrical engineering and electronics. It includes subjects like circuit analysis, electrical machines, power systems, signal processing, control systems, and electronics devices. Students learn to design and analyze electrical circuits, understand the operation of electrical machines and power generation, and delve into communication systems, microprocessors, and embedded systems."
+    },
+    {
+      "title": "Functional Skills",
+      "content": "Content for Functional Skills : The course covers fundamental and advanced topics in electrical engineering and electronics. It includes subjects like circuit analysis, electrical machines, power systems, signal processing, control systems, and electronics devices. Students learn to design and analyze electrical circuits, understand the operation of electrical machines and power generation, and delve into communication systems, microprocessors, and embedded systems."
+    },
+    {
+      "title": "Behavioural skills",
+      "content": "Content for Behavioural Skills : The course covers fundamental and advanced topics in electrical engineering and electronics. It includes subjects like circuit analysis, electrical machines, power systems, signal processing, control systems, and electronics devices. Students learn to design and analyze electrical circuits, understand the operation of electrical machines and power generation, and delve into communication systems, microprocessors, and embedded systems."
+    }
+  ],
+  "benefits": [
+    {
+      "image": "/images/benefit.png",
+      "title": "Blended Delivery",
+      "description": "Electrical and Electronics courses blend online learning with hands-on in-person classes for convenience and engagement. This course is designed to provide students with a comprehensive understanding of electrical and electronics engineering concepts and applications."
+    },
+    {
+      "image": "/images/benefit.png",
+      "title": "Practical Experience",
+      "description": "Gain hands-on experience with state-of-the-art equipment and software used in the industry. Learn to design, build, and test electrical circuits and systems. Work on real-world projects to develop your skills and knowledge."
+    },
+    {
+      "image": "/images/benefit.png",
+      "title": "Industry Connections",
+      "description": "Network with industry professionals and potential employers through guest lectures and internships. Get insights into the latest trends and technologies in electrical and electronics engineering. Gain valuable industry experience to kickstart your career."
+    },
+    {
+      "image": "/images/benefit.png",
+      "title": "Career Support",
+      "description": "Get help with resume writing, interview preparation, and job placement to launch your career in electrical and electronics. Access career resources and job opportunities to find the right job for you. Get personalized guidance from industry experts to achieve your career goals."
+    },
+    {
+      "image": "/images/benefit.png",
+      "title": "Flexible Schedule",
+      "description": "Choose from full-time, part-time, and weekend classes to fit your schedule. Study at your own pace and learn at your convenience. Get access to online resources and support to help you succeed in your studies. Learn from industry experts and experienced faculty to gain valuable insights and knowledge."
+    },
+    {
+      "image": "/images/benefit.png",
+      "title": "Certification",
+      "description": "Earn a certificate upon completion of the course to showcase your skills to employers. Get recognized for your achievements and stand out in the job market. Build a strong portfolio of projects and work samples to demonstrate your expertise in electrical and electronics engineering."
+    }
+  ],
+  "jobRoles": [
+    "Electrical Engineer",
+    "Electronics Engineer",
+    "Control Systems Engineer",
+    "Circuit Design Engineer",
+    "Power Systems Engineer",
+    "Robotics Engineer",
+    "Embedded Systems Engineer",
+    "Telecommunications Engineer",
+    "Test Engineer",
+    "Energy Manager"
+  ],
+  "relatedCourses": [
+    {
+      "title": "Data Science",
+      "rating": 4.6,
+      "image": "/images/datascience.png"
+    },
+    {
+      "title": "Electrical and Communication",
+      "rating": 3.8,
+      "image": "/images/electricalandcommunication.png"
+    },
+    {
+      "title": "Dot Net Full Stack",
+      "rating": 3.2,
+      "image": "/images/dotnet.png"
+    }
+  ]
+}
